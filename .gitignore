@@ -1,0 +1,15 @@
+# Default
+*.DS_Store
+
+# Virtural env and vs code 
+.venv
+.vscode
+
+# Python
+__pycache__/
+*.egg-info
+
+# Custome
+__dev__*
+test_scripts/
+
